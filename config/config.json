@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6335ee1764b170fffe36426311b7bc10e3b5c28b",
+  "SCAN_LINK": "hhttps://snowtrace.io/address/0x6335ee1764b170fffe36426311b7bc10e3b5c28b",
+  "NETWORK": {
+    "NAME": "Avalanche C-Chain",
+    "SYMBOL": "AVAX",
+    "ID": 43114
+  },
+  "NFT_NAME": "FractalTrees",
+  "SYMBOL": "TREE",
+  "MAX_SUPPLY": 421,
+  "WEI_COST": 920000000000000000, 
+  "DISPLAY_COST": 0.92,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "KALAO",
+  "MARKETPLACE_LINK": "https://marketplace.kalao.io/",
+  "SHOW_BACKGROUND": true
+}
